@@ -1,4 +1,4 @@
-<img width="320" height="180" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/341f8164-e93d-48fc-97fb-b302024dd5f8" />
+<img width="320" height="180" alt="giphy" src="https://github.com/user-attachments/assets/85389b33-5b38-47ab-94c3-36895f6b70f1" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
